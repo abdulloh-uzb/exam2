@@ -1,6 +1,10 @@
-# exam2
-sudo docker compose down
-sudo docker compose build
+# test-docker
+sudo docker compose build 
+
 sudo docker compose up
-admin email: admin@gmail.com 
-admin password: 1234
+
+http://localhost:8081/v1/swagger/index.html
+
+Admin Login
+admin:admin@gmail.com
+password:1234
